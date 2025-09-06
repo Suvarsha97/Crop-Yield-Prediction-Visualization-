@@ -29,3 +29,8 @@ The project is built with the following technologies:
 The machine learning model (`model.pkl`) was trained on a historical dataset of Indian crop production. The Streamlit application loads this pre-trained model to make live predictions.
 
 **Live App Link:** **[➡️ Click here to view the live app!](https://cropyeildpredictionvisualization.streamlit.app/)**
+<img width="1914" height="948" alt="SS(1)" src="https://github.com/user-attachments/assets/77a1a66e-3255-4d84-ba3e-33306a7e87e5" />
+<img width="1917" height="948" alt="image" src="https://github.com/user-attachments/assets/7c376339-693e-4123-9024-6f14d85aa3dd" />
+
+
+

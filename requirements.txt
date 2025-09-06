@@ -1,7 +1,8 @@
 streamlit
 pandas
 scikit-learn
-xGBRegressor
+xgboost
 catboost
 seaborn
+
 matplotlib

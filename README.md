@@ -30,7 +30,5 @@ The machine learning model (`model.pkl`) was trained on a historical dataset of 
 
 **Live App Link:** **[➡️ Click here to view the live app!](https://cropyeildpredictionvisualization.streamlit.app/)**
 
-##  Screenshots
-
-![Crop Yield App Screenshot](<img width="1914" height="948" alt="image" src="https://github.com/user-attachments/assets/de68e449-23ce-4c91-ab56-1014c4b50416" />)
+## Screenshots ![Crop Yield App Screenshot](<img width="1914" height="948" alt="SS(1)" src="https://github.com/user-attachments/assets/36700445-e44f-4e87-9c31-fabbbc52db3a" />)
 
